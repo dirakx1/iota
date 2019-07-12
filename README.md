@@ -18,3 +18,6 @@ You own IOTA tokens only when all nodes validate the transaction that sent the t
 # Security
 IOTA uses quantum-resistant cryptography to secure the network and prevent attackers from stealing IOTA tokens.
 IOTA networks are peer-to-peer networks. No central authority controls the ledger of transactions, instead all nodes hold a copy and run the software that contains the IOTA protocol to automate the agreement on its contents.
+
+## References 
+* https://docs.iota.org/docs/getting-started/0.1/tutorials/get-started

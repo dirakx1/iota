@@ -1,2 +1,2 @@
-# iota
+# Iota
 iota documentation and notes

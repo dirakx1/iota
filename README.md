@@ -22,5 +22,8 @@ IOTA networks are peer-to-peer networks. No central authority controls the ledge
 ## References 
 * https://docs.iota.org/docs/getting-started/0.1/tutorials/get-started
 * https://devnet.thetangle.org/
+* https://docs.iota.org/docs/getting-started/0.1/references/use-cases
+
+
 
 

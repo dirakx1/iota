@@ -34,6 +34,8 @@ IOTA technology offers a unique platform to build and solidify a presence in the
 
 # Infrastrcuture 
 * Devnet, Mainet own node. 
+* http://www.tangleblog.com/2017/06/27/incentive-run-fullnode-iota/
+* https://medium.com/@matthieulanvert/why-running-an-iota-full-node-is-easy-and-how-community-improvements-made-it-user-friendly-e0292ec90d6f
 
 # Real time applications 
 

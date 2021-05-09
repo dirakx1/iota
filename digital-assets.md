@@ -34,3 +34,5 @@ Colored Coins never increase or decrease the specified max. IOTA token supply. I
 ### Security Tokens 
 ### NFTs
 
+#### References 
+* https://www.youtube.com/watch?v=8c2zAP_h9sY 

@@ -6,7 +6,6 @@ value than the normal IOTA token. For a better understanding you can also imagin
 when sending it and identifies it as a special token. The regular IOTA token is only used as carrier. 
 The term Colored Coin has also been established in the cryptoscene.
 
-
 ## What are Digital Assets?
 
 IOTA Digital Assets (also called Colored Coins) are tokens that are based on IOTA and can be used to tamper-proof represent assets from the real world. Basically they remain “normal” IOTA tokens but in a certain context or in a specially created app they can mean different things and may have a higher value than the normal IOTA token. For a better understanding you can also imagine this as a kind of label, which is stuck to the token when sending it and identifies it as a special token. The regular IOTA token is only used as carrier. The term Colored Coin has also been established in the cryptoscene.
@@ -28,6 +27,8 @@ Colored Coins never increase or decrease the specified max. IOTA token supply. I
  * Due to the game theory around Mana, a Colored Coin will not be able to compete with the regular IOTA token for a value transfer. A Colored Coin will generate too little Mana in the network (with 1i value) no matter what asset is mapped with it. Due to the Mana regulated transaction rate and the minimum Mana requirement of the nodes for transactions, a brisk trade without additional Mana with Colored Coins is prevented. A Colored Coin is therefore not suitable for a replacement of the regular IOTA token for value transfer.
  ^ Dust protection also applies to Colored Coins. A minimum of 1 Mi on an address applies (can also be regular IOTA tokens).
  
+
+## IOTA's DA framework 
 ## Use cases
 ### Utility tokens 
 ### Security Tokens 

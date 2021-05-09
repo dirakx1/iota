@@ -6,3 +6,4 @@ IOTA Smart Contracts are “Quorum-based Computations” and therefore do not de
 
 ## References
 * https://blog.iota.org/iota-smart-contracts-protocol-alpha-release/
+* https://iota-beginners-guide.com/products/iota-smart-contracts/

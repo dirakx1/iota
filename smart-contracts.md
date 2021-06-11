@@ -8,6 +8,8 @@ The IOTA Smart Contract Protocol (ISCP) was derived from the Qubic project and p
 The new SCs can be seen as an offset that shifts priorities towards a pragmatic solution. In essence, 
 IOTA Smart Contracts are “Quorum-based Computations” and therefore do not deviate too far from the “original” Qubic vision.
 
+### Alpha release
+"The most anticipated aspect of the Alpha release is that developers can now create IOTA based smart contracts and decentralized applications (dApps), deploy smart contract chains run by Wasp nodes and deploy smart contracts on those chains. After finalization of the current integration of the “Mana” module into the Coordicide testnet in its current “Pollen” stage, IOTA Smart Contracts will be able to be deployed using Wasp nodes. The current integration of the Mana module into Pollen represents a major building block of the leaderless consensus algorithm of the future IOTA protocol. The ISCP team therefore decided to focus on the ability to deploy Smart Contracts on Wasp nodes until after the Mana module integration has been finalized in the coming weeks."
 
 ## References
 * https://blog.iota.org/iota-smart-contracts-protocol-alpha-release/

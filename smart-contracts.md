@@ -1,7 +1,17 @@
 # Whats an SC ? 
+
+## IOTA's definition 
 A Smart Contract is a programmed agreement that is fully deterministic and automatically enforced by encapsulating the contractual obligations between buyer and seller in the software. This makes it impossible to deny this agreement.
 
 Basically, SCs were created to make the enforcement of a contract by third parties, such as a central authority, unnecessary. SCs enable the execution of trustworthy transactions which are traceable, transparent and irreversible. “Experts” are generally expected to use SCs in the future to replace many types of real paper contracts. With these new technological possibilities, many types of business processes in many industries can be executed much more efficiently and costs can be reduced.
+
+## Investpedia's definition 
+
+ A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized blockchain network. The code controls the execution, and transactions are trackable and irreversible.
+
+Smart contracts permit trusted transactions and agreements to be carried out among disparate, anonymous parties without the need for a central authority, legal system, or external enforcement mechanism.
+
+While blockchain technology has come to be thought of primarily as the foundation for bitcoin, it has evolved far beyond underpinning the virtual currency. 
 
 # ISCP 
 The IOTA Smart Contract Protocol (ISCP) was derived from the Qubic project and preserves many of its useful features. 
